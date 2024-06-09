@@ -1,0 +1,19 @@
+Total Experience 
+2. Experience in Core Java
+3. Experience in Spring/Springboot
+4. Experience in Angular
+5. Experience in Bootstrap3.0, JavaScript
+6. Experience in HTML5, CSS3
+7. Experience in Database
+8. Experience on Financial Services Domain
+9. Current Organization
+10. Current Location
+11. Reason for change
+12. Highest Qualification with full form
+13. Any other interviews in Process
+14. Any offers in Hand
+15. Current CTC 
+16. Expected CTC 
+17. Notice period 
+18. Ready to relocate to Pune
+19. If you had gone through interview in BNY Mellon:
